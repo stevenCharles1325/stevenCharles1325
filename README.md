@@ -6,7 +6,6 @@
 - 📫 To reach me, you can contact my number *+639454610579* or you can email me on my gmail **stevencharles1325@gmail.com**
 
 ## Have a great day!
-<!---
-stevenCharles1325/stevenCharles1325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
