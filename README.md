@@ -9,3 +9,6 @@
 
 [![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenCharles1325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stevenCharles1325)](https://github.com/anuraghazra/github-readme-stats)
