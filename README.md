@@ -6,9 +6,13 @@
 - 📫 To reach me, you can contact my number *+639454610579* or you can email me on my gmail **stevencharles1325@gmail.com**
 
 ## Have a great day!
-
+`My github stats`
 [![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+`My Top Languages`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenCharles1325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+`WAKA TIME STATS`
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stevenCharles1325)](https://github.com/anuraghazra/github-readme-stats)
