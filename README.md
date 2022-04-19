@@ -10,7 +10,7 @@
 `My github stats`
 
 
-[![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&title_color=a60af5&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 `My Top Languages`
