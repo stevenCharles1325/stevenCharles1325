@@ -17,9 +17,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenCharles1325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-`WAKA TIME STATS`
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stevenCharles1325)](https://github.com/anuraghazra/github-readme-stats)
