@@ -22,10 +22,10 @@
   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </p>
 
-`My github stats`
+
 [![StevenCharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenCharles1325&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 
-`My Top Languages`
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenCharles1325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
